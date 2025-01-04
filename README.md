@@ -92,3 +92,5 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 https://diet-recommendation-system.streamlit.app/
+
+
